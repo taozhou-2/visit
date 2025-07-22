@@ -1,0 +1,11 @@
+flask
+flask-sqlalchemy
+psycopg2-binary
+pandas
+openpyxl
+python-dotenv
+flask-mail
+openai
+python-dateutil
+flasgger
+flask_cors

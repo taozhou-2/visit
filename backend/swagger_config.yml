@@ -1,0 +1,13 @@
+swagger: "2.0"
+info:
+  title: "Flask 接口文档"
+  description: "这个文档展示了所有可用的 API 接口"
+  version: "1.0.0"
+host: "localhost:8088"
+basePath: "/"
+schemes:
+  - http
+consumes:
+  - application/json
+produces:
+  - application/json
